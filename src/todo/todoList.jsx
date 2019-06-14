@@ -1,6 +1,5 @@
 import React from 'react'
 import IconButton from '../template/iconButton'
-import todoForm from './todoForm';
 
 export default props => {
 
@@ -33,7 +32,7 @@ export default props => {
       <thead>
         <tr>
           <th>Descrição</th>
-          <th>Ações</th>
+          <th className="tableActions">Ações</th>
         </tr>
       </thead>
       <tbody>
