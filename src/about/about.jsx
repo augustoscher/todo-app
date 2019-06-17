@@ -12,6 +12,7 @@ export default props => (
     <br />
     <h2>Impreensa</h2>
     <p>Lorem ipsum aisuh</p>
+    <p>Lorem ipsum aisuh</p>
     <br />
   </div>
 )
